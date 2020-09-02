@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi I'm Randy!
+<br>
+I've made a portfolio to practice my React / Typescript, check it out!
+<br>
+<https://randyvan.com/>
 
 <!--
 **ryaovan/ryaovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
