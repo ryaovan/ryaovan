@@ -11,7 +11,7 @@ I am currently working on a personal portfolio to practice my React / Typescript
 Since you are here learning about me, I will also divulge the fact that I like taking pretty pictures along with coding. Now you know **everything** about me.
 <br />
 
-![image](./IMG_20200815_195131.jpg)
+![image](https://github.com/ryaovan/ryaovan/blob/master/IMG_20200815_195131.jpg)
 
 <br />
 
