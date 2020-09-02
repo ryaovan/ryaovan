@@ -5,7 +5,6 @@
 I am currently working on a personal portfolio to practice my React / Typescript, *check it out*!   
 <https://randyvan.com/>
 
-<br />
 
 ## About
 Since you are here learning about me, I will also divulge the fact that I like taking pretty pictures along with coding. Now you know **everything** about me.
@@ -13,13 +12,11 @@ Since you are here learning about me, I will also divulge the fact that I like t
 
 ![image](https://github.com/ryaovan/ryaovan/blob/master/IMG_20200815_195131.jpg)
 
-<br />
 
 ## Disclaimer
 Sorry I make a lot of private repos, so it looks like I dont have much activity.  
 I promise I am still building some stuff :)
 
-<br />
 
 ## Skills
 
