@@ -21,31 +21,29 @@ I promise I am still building some stuff :)
 ## Skills
 
 ```javascript
-const stack = {
+const mern_stack = {
   react: ['jsx', 'React', 'HTML', 'css', 'redux', 'babel', 'webpack'],
   nodejs: ['javascript', 'typescript', 'npm', 'es5/6'],
-  expressjs: ['rest', 'web_server', 'CDN'],
-  nosql: ['mongodb', 'crud', 'authorization', 'authentication']
+  express: ['routing', 'authorization', 'authentication', 'API'],
+  mongodb: ['nosql', 'CRUD', 'REST', 'mongoose']
 }
 
 const cloud = {
-  aws: ['serverless', 's3', 'ecr', 'ec2', 'cloudwatch', 'etc'],
+  aws: ['serverless', 's3', 'ecr', 'ec2', 'cloudwatch', 'cloudformation', 'etc'],
   firebase: ['firestore', 'rtdb', 'functions']
 }
 
 const app = {
-  web: ['MERN', 'html', 'css'],
-  mobile: ['android', 'react-native']
+  web: ['MERN', 'html', 'css', 'Vue'],
+  mobile: ['android', 'react-native'],
 }
 
 const systems = {
   architecture: ['design_patterns', 'SOLID', 'docker', 'microservice'],
-  messaging: ['kafka', 'rabbitmq'],
+  messaging: ['rabbitmq', 'kafka'],
   testing: ['jest', 'postman', 'kibana', 'elastic'],
-  cicd: ['git', 'gitlab', 'bitbucket', 'jenkins']
+  cicd: ['github actions', 'gitlab', 'bitbucket', 'jenkins']
 }
 
 return {...stack, ...cloud, ...app, ...systems};
 ```
-
-I just really wanted to put a code block in here somewhere. I know this could have just been a table.
